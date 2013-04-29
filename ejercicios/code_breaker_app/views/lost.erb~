@@ -1,0 +1,7 @@
+<html>
+  <body>
+    <h1>ups!</h1>
+    <h1>Juego terminado, perdiste</h1>
+    <%= @state %>
+  </body>
+</html>

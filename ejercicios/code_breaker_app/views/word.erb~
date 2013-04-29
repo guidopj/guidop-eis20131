@@ -1,0 +1,6 @@
+<html>
+  <body>
+    <h1>Word</h1>
+    State: <%= @gameStatus %>
+  </body>
+</html>

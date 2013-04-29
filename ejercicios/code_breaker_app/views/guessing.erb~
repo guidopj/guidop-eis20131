@@ -1,0 +1,12 @@
+<html>
+  <body>
+    <h1>Adivinar</h1>
+    <%= if(@guessed)
+         "acierto"
+       else
+         "ups!"
+       end
+    %>
+    <%= @state %>
+  </body>
+</html>

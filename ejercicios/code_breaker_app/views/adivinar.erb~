@@ -1,0 +1,15 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>Adivinar</h1>
+    <%= if(@last_guess)
+         "acierto"
+       else
+         "ups!"
+       end
+    %>
+    <br/>
+    State: <%= @lastState %>
+  </body>
+</html>
