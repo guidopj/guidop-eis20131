@@ -1,0 +1,8 @@
+nombre del proyecto grupal: DraculasPressure
+nombre de los integrantes del grupo: Sergio Bogado y Guido Pujadas
+link al trello: https://trello.com/board/blood-pressure-recorder/5192ac2fa6debc367a0005d1
+link al repositorio del proyecto: https://github.com/guidopj/draculaspressure-github/tree/develop
+link al al travis del proyecto: https://travis-ci.org/guidopj/draculaspressure-github
+link al ambiente de staging: http://draculaspressure-staging.herokuapp.com
+link al ambiente de produccion: http://draculaspressure-production.herokuapp.com
+link al video de la review: https://www.youtube.com/watch?feature=player_embedded&v=20UgC9SAJas#!
